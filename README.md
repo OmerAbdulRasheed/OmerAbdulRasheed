@@ -8,7 +8,7 @@ I own architecture, engineering, DevOps/MLOps, and production operations across 
 
 | Product | What it is |
 |---|---|
-| [Jurivo](https://jurivo.com) | Grounded RAG legal assistant for European law — hybrid retrieval, mandatory article citations, AI contract analysis |
+| [Jurivo](https://jurivo.eu) | Grounded RAG legal assistant for European law — hybrid retrieval, mandatory article citations, AI contract analysis |
 | [NiftyIP](https://niftyip.com) | Creative-work fingerprinting with CLIP embeddings — detect whether your art was used in AI training data |
 | [Songify](https://songify.fun) | AI text-to-song generation across 120+ genres |
 | [Sketo](https://sketo.pro) | Sketch-to-image generation powered by diffusion models |
