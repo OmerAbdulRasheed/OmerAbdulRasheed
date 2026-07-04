@@ -1,8 +1,8 @@
 # Omer Abdul Rasheed
 
-**Technology executive who ships production AI.** 20+ years spanning national-scale ICT programs — including Pakistan's Covid-19 command center across 200+ cities — and hands-on delivery of GenAI products. Currently **Head of Technology at NiftyBooks**, based in Vienna, Austria.
+**Technology executive who ships production AI.** 20+ years spanning national-scale ICT programs — including Pakistan's Covid-19 command center across 200+ cities, and hands-on delivery of GenAI products. Currently **Head of Technology at NiftyBooks**, based in Vienna, Austria.
 
-## What I build — as Head of Technology at NiftyBooks
+## What I build as Head of Technology at NiftyBooks
 
 I own architecture, engineering, DevOps/MLOps, and production operations across the company's product portfolio:
 
@@ -15,7 +15,7 @@ I own architecture, engineering, DevOps/MLOps, and production operations across 
 | [LetterCraft](https://lettercraft.email) | AI newsletter generation SaaS — brief in, branded editable draft out, with API access |
 | [CrawlFence](https://crawlfence.com) | Scans websites and generates protection plans against AI training crawlers, without hurting SEO |
 | [Nifty Planetarium](https://planetarium-phi.vercel.app) | 12 educational space games for kids aged 3–12 |
-| [Nifty Reader](https://apps.apple.com/us/app/nifty-reader/id6755534044) | Flutter ereading app (iOS & Android) — free library, book marketplace, community reviews |
+| [Nifty Reader](https://apps.apple.com/us/app/nifty-reader/id6755534044) | Flutter e-reading app (iOS & Android), free library, book marketplace, community reviews |
 
 Earlier, as Solution Architect at YallaGrub (2021–2024), I architected the food-ordering platform's web and mobile apps and its AWS infrastructure, coordinating a 30+ person delivery team.
 
